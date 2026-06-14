@@ -1,0 +1,17 @@
+This file should contain the full output of:
+
+python -m xformers.info
+
+from the release validation environment.
+
+Known confirmed values:
+
+pytorch.version: 2.11.0+cu128
+pytorch.cuda: available
+gpu.compute_capability: 12.0
+gpu.name: NVIDIA GeForce RTX 5070 Laptop GPU
+build.cuda_version: 1208
+
+Paste the full release output below this line when preparing the GitHub repository:
+
+---
