@@ -76,7 +76,7 @@ Required companion repository:
 mslk-blackwell-windows
 ```
 
-Link placeholder:
+MSLK Repository Link:
 
 ```text
 https://github.com/Kittensx/mslk-blackwell-windows
