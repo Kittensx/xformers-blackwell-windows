@@ -42,7 +42,3 @@ Generation completed successfully.
 No xFormers runtime errors were observed.
 Fast iteration testing completed.
 ```
-
-## Notes
-
-This is an experimental release. Mark the GitHub Release as a pre-release.
